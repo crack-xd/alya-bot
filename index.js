@@ -30,11 +30,11 @@ function start() {
 	})
 }
 
-CFonts.say('ALYA BOT', {
+CFonts.say('HERI BOT', {
    font: 'tiny',
    align: 'center',
    colors: ['system']
-}), CFonts.say('Github : https://github.com/alya-tok/alya-bot', {
+}), CFonts.say('Site : https://unitedcyberteam.com', {
    colors: ['system'],
    font: 'console',
    align: 'center'
