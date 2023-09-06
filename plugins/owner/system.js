@@ -1,5 +1,5 @@
 exports.run = {
-   usage: ['autodownload', 'debug', 'groupmode', 'multiprefix', 'noprefix', 'online', 'self'],
+   usage: ['chatbot', 'autodownload', 'debug', 'groupmode', 'multiprefix', 'noprefix', 'online', 'self'],
    use: 'on / off',
    category: 'owner',
    async: async (m, {
