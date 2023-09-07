@@ -30,7 +30,7 @@ function start() {
 	})
 }
 
-CFonts.say('HERI BOT', {
+CFonts.say('ASEP BOT', {
    font: 'tiny',
    align: 'center',
    colors: ['system']
