@@ -104,11 +104,11 @@ exports.run = {
                })
                print += commands.sort((a, b) => a.usage.localeCompare(b.usage)).map((v, i) => {
                   if (i == 0) {
-                     return `┌  ◦  ${isPrefix + v.usage} ${v.use}`
+                     return `➸ ${isPrefix + v.usage} ${v.use}`
                   } else if (i == commands.sort((a, b) => a.usage.localeCompare(b.usage)).length - 1) {
-                     return `└  ◦  ${isPrefix + v.usage} ${v.use}`
+                     return `➸ ${isPrefix + v.usage} ${v.use}`
                   } else {
-                     return `│  ◦  ${isPrefix + v.usage} ${v.use}`
+                     return `➸ ${isPrefix + v.usage} ${v.use}`
                   }
                }).join('\n')
             }
