@@ -1,5 +1,5 @@
 {
-   "owner": "6281350323701",
+   "owner": "6289530656600",
    "owner_name": "Owner",
    "database": "database",
    "limit": 15,
@@ -9,10 +9,10 @@
    "cooldown": 3,
    "timer": 180000,
    "timeout": 1800000,
-   "blocks": ["994", "91", "92"],
+   "blocks": ["60", "994", "91", "92"],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 6281350323701
+      "number": 62858353815712
    }
 }
